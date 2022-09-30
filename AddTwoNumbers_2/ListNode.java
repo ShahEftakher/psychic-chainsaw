@@ -45,6 +45,6 @@ public class ListNode {
             }
         }
         // System.out.println(2%10);
-        return resultList;
+        return resultList.next;
     }
 }
